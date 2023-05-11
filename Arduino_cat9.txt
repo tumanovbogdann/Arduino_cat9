@@ -1,0 +1,2357 @@
+
+<!DOCTYPE HTML>
+<html lang="uk">
+<head>
+<link rel="alternate" hreflang="uk" href="https://arduino.ua/cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee">
+<link rel="alternate" hreflang="ru" href="https://arduino.ua/ru/cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee">
+<link rel="shortcut icon" href="/favicon.ico?ver=1.1" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="MobileOptimized" content="176">
+<title>RF, Wi-Fi, Bluetooth, GSM, GPS, FM, XBee купити</title>
+
+<meta property="og:locale" content="ua_UA">
+<link href="/style32_both.css?ver=2.28" type="text/css" rel="stylesheet">
+<link href="/style32.css?ver=2.63" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="/font-awesome/css/font-awesome.min.css">
+
+<script type="application/ld+json">
+	{ 
+		"@context" : "https://schema.org",
+		"@type" : "Organization",
+		"name": "Arduino в Україні",
+		"address" : {
+			"@type": "PostalAddress",
+			"addressCountry" : "UA",
+			"addressLocality": "Київ",
+			"postalCode": "03022",
+			"streetAddress": "вул. Васильківська, 30"
+		},
+		"contactPoint": [
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (096) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			},
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (066) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			},
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (063) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			}
+		],
+		"email" : "info@arduino.ua",
+		"url" : "https://arduino.ua/",
+		"logo" : "https://arduino.ua/images/tmpl32/logo.jpg",
+		"sameAs" : [ "https://www.facebook.com/arduino.ua/" ]
+	}
+</script>
+<script type="application/ld+json">
+	{
+		"@context" : "https://schema.org",
+		"@type" : "LocalBusiness",
+		"name": "Arduino в Україні",
+		"currenciesAccepted": "UAH",
+		"paymentAccepted": "Готівка, банківська карта, кредитна картка, безготівковий розрахунок",
+		"telephone": "+38 (096) 500-2-500",
+		"address" : {
+			"@type": "PostalAddress",
+			"addressCountry" : "UA",
+			"addressLocality": "Київ",
+			"postalCode": "03022",
+			"streetAddress": "вул. Васильківська, 30"
+		},
+		"contactPoint": [
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (096) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			},
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (066) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			},
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+38 (063) 500-2-500",
+				"email" : "info@arduino.ua",
+				"availableLanguage": ["uk","ru"],
+				"areaServed": "UA",
+				"contactType": "Sales"					
+			}
+		],
+		"openingHours": ["Mo-Fr 08:00-19:00", "Sa 10:00-19:00"],
+		"email" : "info@arduino.ua",
+		"url" : "https://arduino.ua/",
+		"logo" : "https://arduino.ua/images/tmpl32/logo.jpg",
+		"image": "https://arduino.ua/images/tmpl32/logo.jpg",
+		"sameAs" : [ "https://www.facebook.com/arduino.ua/" ],
+		"priceRange" : "1-40000UAH"
+	}
+</script>
+<script type="application/ld+json">
+	{
+		"@context": "https://schema.org",
+		"@type": "WebSite",
+		"url": "https://arduino.ua/",
+		"potentialAction": {
+			"@type": "SearchAction",
+			"target": "https://arduino.ua/?searchstring={search_term}",
+			"image": "/images/tmpl32/logo.jpg",
+			"query-input": "required name=search_term" 
+		}
+	}
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-32603122-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-32603122-1');
+
+</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="/images/scripts_orig.js"></script>
+<link rel="next" href="/index.php?categoryID=66&offset=18">
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '852856732200406');
+fbq('track', 'PageView',{} , {eventID:'1584856933'});
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=852856732200406&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --></head><body onLoad="JQerrorInint()">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="service-menu">
+
+<div class="wrapper">
+
+	<div class="language">	<span>UA</span>
+	<a href="/ru/cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee" onclick="document.cookie='lang=/ru; path=/; max-age=10368000';return true;">RU</a>
+</div>
+
+<a rel="nofollow" class="mobile" href="/?mobile">Мобільна версія</a>
+<a class="mobile" href="/inf4-garantiya" title="Гарантійні умови">Гарантійні умови</a>
+
+<div class="icons">
+<a href="/" title="Ардуіно в Україні"><img src="/images/home0000_w.gif" alt="Ардуіно в Україні"></a>
+<a href="/feedback" title="Зворотний зв'язок"><img src="/images/envelope_w.gif" alt="Зворотний зв'язок"></a>
+<a href="/sitemap" title="Мапа сайту"><img src="/images/map00000_w.gif" alt="Мапа сайту"></a> 
+</div>
+
+<div class="office">
+	<a class="enter" href="/index.php?enter_with_password=yes" title="Вхід з паролем">Вхід з паролем</a>
+
+<div class="office_popup">
+	<form action="/" method="post" onsubmit="this.enter.value='2';return true;" class="send-form" autocomplete="off">
+<h1>Авторизація</h1>
+<input type="text" name="user_login" placeholder="Логін або телефон" value="">
+<input name="user_pw" type="password"  placeholder="Пароль" value="">
+<input type="submit" class="b_send_message" value="OK"><br />
+<input type="hidden" name="enter" value="1">
+<input type=hidden name=categoryID value="66"><a href="/index.php?register=yes">Реєстрація</a><br>
+<a href="/index.php?logging=yes">Нагадати пароль</a>
+</form>
+</div><!--.office_popup -->
+</div><!--.office -->
+
+<a class="fav-head" href="/index.php?favorite=yes" title="Список бажань"><i class="fa fa-heart"></i> <b class="fav_count">0</b></a>
+
+<a class="fav-head compare-head" href="/index.php?comparison_products=1" title="Список порівняння"><i class="fa fa-balance-scale"></i> <b class="compare_count">0</b></a>
+
+</div>
+</div><!-- .service -->
+
+<div class="Wrap">
+
+
+
+<div class="header flex">
+
+<div class="arduino-logo">
+        	<a href="https://arduino.ua/" title="Arduino в Україні">
+    		    			<img src="/images/tmpl32/logo.jpg" alt="Arduino в Україні">
+        </a>
+    </div>
+
+
+
+<div class="arduino-phones">
+	<div class="phones">
+        <a href="tel:0965002500"><span>(096)</span> 500-2-500</a> &nbsp;
+        <a href="tel:0665002500"><span>(066)</span> 500-2-500</a> &nbsp;  
+        <a href="tel:0635002500"><span>(063)</span> 500-2-500</a>
+    </div>
+    <div class="arduino-search">
+                    <form action="/" method='get' id="searchForm" class="ajaxSearch">
+	<input name="search" id="ajaxSearch" placeholder="Пошук" type="text"  AUTOCOMPLETE="off"><input type="submit" value="Пошук" class="ajaxButton">
+</form>
+<script>
+var timeoutRun=false;
+var start = new Date().getTime();
+
+function doSearch(){
+	var search2 = $("#ajaxSearch").val();
+	if(search2.length>2){
+	 	//var elapsed=new Date().getTime();
+	 	//if((elapsed-start)>1000){
+	 	 
+		 $.ajax({
+		   type: "POST",
+		   url: "/ajaxSearch.php",
+		   data: {"search2": search2},
+		   cache: false,                                
+		   success: function(data){
+			  $("#resSearch").html(data);
+			  $("#resSearch").css('display','block');
+		   }
+		 });
+		 //}
+ 	}
+ 	timeoutRun=false;
+ 	return false;
+}
+$(function(){
+  $("#ajaxSearch").keyup(function(){
+    var elapsed=new Date().getTime();
+ 	if((elapsed-start)>1000 && !timeoutRun){
+ 		doSearch();
+ 		timeoutRun=false;
+ 		start=new Date().getTime();
+	}else{
+		if(!timeoutRun){
+			setTimeout(function () {
+			    doSearch();
+			},1000);
+			timeoutRun=true; 
+		}
+	}
+	
+   });
+});
+</script>            <div id="resSearch"></div>
+    </div>
+</div>
+
+
+
+<div class="arduino-work-hours">
+	Графік роботи магазину:<br>
+    Пн-Пт: 8.00 - 19.00<br>
+    Сб: 10.00 - 19.00<br>
+    Нд: вихідний<br>
+    </div>
+
+
+</div><!-- .header -->
+
+
+
+
+<ul class="top-menu">
+<li class="first"><a href="/" title="Ардуіно в Україні"><i class="fa fa-home" aria-hidden="true"></i></a></li>
+<li class="sale"><a href="/cat17-Rasprodaja" title="Розпродаж! - уцінені товари нашого магазину"><i class="fa fa-percent" aria-hidden="true"></i></a></li>
+<li class="forum"><a href="https://forum.arduino.ua/" target="_blank" title="форум Arduino"><i class="fa fa-comments-o" aria-hidden="true"></i> Форум Arduino</a></li>
+<li><a href="/inf3-oplata-i-dostavka" title="Оплата та доставка">Оплата та доставка</a></li>
+<li><a href="/inf12-kontakti" title="Контакти">Контакти</a></li>
+<li><a href="/articles" title="Статті">Статті</a></li>
+<li><a href="https://doc.arduino.ua/" target="_blank" title="Опис мови програмування Arduino">Документація</a></li>
+<li><a href="/zhalobi-predlozheniya" title="Скарги / Пропозиції">Скарги / Пропозиції</a></li>
+<li><a href="/warranty_exchange" title="Гарантія / Повернення">Гарантія / Повернення</a></li>
+</ul>
+
+<div style="clear:both;"></div>
+
+<div id="cur-search">
+
+<a class="menu-level-3" href="/catalog_a_z" title="Каталог A-Z">Каталог A-Z</a>
+
+<a class="menu-level-3" href="/index.php?newprods=yes" title="Новинки магазину">Новинки магазину</a>
+
+<a class="menu-level-3" href="/cat271-ojidaem-novinki" title="Очікуємо новинки">Очікуємо новинки</a>
+
+<a class="menu-level-3" href="cat165-podarki" title="Подарункові сертифікати, сувеніри">Подарункові сертифікати, сувеніри</a>
+
+<div class="Resycler">
+<a href="/index.php?shopping_cart=yes" rel="nofollow">
+	<i class="fa fa-shopping-cart" aria-hidden="true"></i>
+					<div id="cart_informer"><span id="shpcrtgc" class="cart_emrty">(немає товарів)</span>
+		        <span id="shpcrtca"></span>
+		        <div id="shpcrtcd"></div></div>
+</a>
+</div>
+
+<div style="clear:both;"></div>
+
+</div><!--#cur-search-->
+
+<div id="content">
+<table style="width:100%;">
+<tr>
+<td style="vertical-align:top; text-align:left; padding:0 5px 5px 0; width:1%;">
+
+
+<div class="blockHead">Каталог
+</div>
+
+<div class="category-tree-full">
+    <ul><li><a href="/cat2-arduinokontrolleri">Arduino контролери</a><ul><li><a href="/cat130-arduino-original-italiya">Контролери Arduino (original)</a></li><li><a href="/cat131-arduino-kitai">Контролери Arduino (Китай)</a></li><li><a href="/cat212-arduino-dlya-razrabotchikov">Arduino для розробників</a></li><li><a href="/cat3-plati-rozshiren-arduino">Плати розширень Arduino</a><ul><li><a href="/cat83-silovie">Силові</a></li><li><a href="/cat84-kommynikacionnie">Комунікаційні</a></li><li><a href="/cat85-prototipirovanie">Прототипування</a></li><li><a href="/cat86-otobrajenie-informacii">Відображення інформації</a></li><li><a href="/cat87-periferiinie">Переферійні</a></li><li><a href="/cat125-audio-zvyk-mp3">Audio, звук, голос, mp3</a></li><li><a href="/cat88-prochie">Інші</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat132-korpysa-dlya-kontrollerov-arduino">Корпуси для Arduino</a></li><li><a href="/cat133-nabori-na-osnove-kontrollera-arduino">Набори Arduino KIT</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat15-mini-komputeri">Міні-комп'ютери</a><ul><li><a href="/cat371-radxa-rock">Radxa Rock </a></li><li><a href="/cat5-raspberry-pi">Raspberry Pi</a><ul><li><a href="/cat76-mini-komputeri-raspberry-pi">Міні-комп'ютери Raspberry Pi</a></li><li><a href="/cat386-kontroleri-plati-rozshirennya-rasperry-pi-pico">Контролери, плати розширення Rasperry Pi Pico</a></li><li><a href="/cat245-nabori-raspberry-pi">Набори Raspberry Pi</a></li><li><a href="/cat74-displei">Дисплеї</a></li><li><a href="/cat73-korpysa">Корпуси</a></li><li><a href="/cat265-ohlajdenie">Охолодження</a></li><li><a href="/cat75-periferiya-rozshirennya">Периферія, розширення</a></li><li><a href="/cat269-bloki-pitaniya-dlya-raspberry">Блоки живлення для Raspberry</a></li><li><a href="/cat102-wifi-i-gsm">WiFi та GSM</a></li><li><a href="/cat103-video">Відеокамери</a></li><li><a href="/cat216-zvyk">Звук</a></li><li><a href="/cat135-literatyra-po-raspberry">Література по Raspberry</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat275-nvidia">NVIDIA</a></li><li><a href="/cat69-orange-pi">Orange Pi</a></li><li><a href="/cat180-lattepanda">LattePanda</a></li><li><a href="/cat104-odroid">Odroid</a></li><li><a href="/cat208-beaglebone">BeagleBone</a></li><li><a href="/cat118-friendlyarm">FriendlyARM</a></li><li><a href="/cat138-pine-64">Pine 64</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat387-ohoronna-sistema">Охоронна система Ajax</a></li><li><a href="/cat12-sredstva-razrabotki-programmatori">Засоби розробки, програматори</a><ul><li><a href="/cat238-m5stack">M5Stack</a></li><li><a href="/cat215-avr">AVR</a></li><li><a href="/cat222-bbc-microbit">BBC micro:bit</a></li><li><a href="/cat34-rogrammatoriiotladchiki">Програматори</a></li><li><a href="/cat89-stm32-discovery">STM32 Discovery</a></li><li><a href="/cat148-stm32-nucleo">STM32 Nucleo</a></li><li><a href="/cat99-stm32">STM8, STM32</a></li><li><a href="/cat122-esp8266">ESP8266, ESP32</a></li><li><a href="/cat388-xiao">XIAO</a></li><li><a href="/cat149-fpga">FPGA</a></li><li><a href="/cat150-teensy">Teensy</a></li><li><a href="/cat293-bluetooth">Bluetooth</a></li><li><a href="/cat219-lora">LoRa</a></li><li><a href="/cat114-prochie">Інше</a></li><li><a href="/cat218-texas-instruments">Texas Instruments</a></li><li><a href="/cat282-nxp">NXP</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat327-karti-pamyati-sd">Карти пам'яті SD, Флешки</a></li><li><a href="/cat56-nabori">Набори (DIY Kits), конструктори</a><ul><li><a href="/cat383-osvitni-stem-nabori">Освітні STEM набори</a><ul><li><a href="/cat199-m5stack">M5Stack</a></li><li><a href="/cat110-obrazovatelnie-stem-nabori-arduino">Arduino</a></li><li><a href="/cat244-obrazovatelnie-nabori-raspberry-pi">Raspberry Pi</a></li><li><a href="/cat224-obrazovatelnie-stem-nabori-microbit">Micro:bit</a></li><li><a href="/cat247-nabori-arduino-ymnii-dom-priroda">Розумний Дім, Природа</a></li><li><a href="/cat361-stem-konstryktori">STEM-конструктори </a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat163-seriya-prakticheskaya-elektronika">"Практична електроніка"</a></li><li><a href="/cat287-radiokonstryktori">Радіоконструктори</a></li><li><a href="/cat112-nabori-sdelai-sam">Конструктори "Зроби сам"</a></li><li><a href="/cat111-nabori-radiodetalei">Набори радіодеталей</a></li><li><a href="/cat113-nabori-komponentov">Набори компонентів</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li class="active_category" ><a href="/cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee">RF, Wi-Fi, Bluetooth, GSM, GPS, FM, XBee</a><ul><li><a href="/cat370-antenni">Антени</a></li><li><a href="/cat95-rfid">RFID, NFC</a></li><li><a href="/cat126-wi-fi-esp8266">Wi-Fi ESP8266, ESP32</a></li><li><a href="/cat96-wi-fi">Wi-Fi</a></li><li><a href="/cat119-gsm-gprs">GSM, GPRS</a></li><li><a href="/cat97-bluetooth">Bluetooth</a></li><li><a href="/cat98-radiomodyli">Радіомодулі</a></li><li><a href="/cat115-xbee-i-drygie-bee">XBee та інші *Bee</a></li><li><a href="/cat120-gps">GPS</a></li><li><a href="/cat162-fm">FM</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat193-sonoff-ymnii-dom"> SONOFF Розумний будинок</a><ul><li><a href="/cat239-wi-fi-vikluchateli">Wi-Fi вимикачі</a></li><li><a href="/cat241-wi-fi-ymnie-rozetki">Wi-Fi розумні розетки</a></li><li><a href="/cat242-wi-fi-osveshhenie">Wi-Fi освітлення</a></li><li><a href="/cat243-datchiki">Датчики</a></li><li><a href="/cat283-wi-fi-kameri">Wi-Fi камери</a></li><li><a href="/cat267-sonoff-korpysa">Корпуси</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat14-displei">Дисплеї</a><ul><li><a href="/cat121-tft-displei-hdmi">TFT дисплеї (HDMI)</a></li><li><a href="/cat281-tft-displei-v-korpyse-hdmi-vga-av">TFT дисплеї в корпусі (HDMI, VGA, AV)</a></li><li><a href="/cat29-displei">TFT дисплеї (модулі, шилди)</a></li><li><a href="/cat123-tft-hmi-paneli-nextion">TFT HMI панелі NEXTION</a></li><li><a href="/cat31-displei">LCD дисплеї</a></li><li><a href="/cat82-oled-displei">OLED дисплеї</a></li><li><a href="/cat292-e-ink">E-Ink</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat343-zvyk-mp3">Звук, mp3</a><ul><li><a href="/cat345-vosproizvedenie">Відтворення</a></li><li><a href="/cat344-zapis">Запис</a></li><li><a href="/cat342-ysilenie">Підсилювання</a></li><li><a href="/cat338-dinamiki">Динаміки</a></li><li><a href="/cat339-mikrofoni">Мікрофони</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat6-atchiki">Датчики</a><ul><li><a href="/cat78-zvyk-yltrazvyk">Звук, ультразвук</a></li><li><a href="/cat77-osveshhenie-ik-ogon-yltrafiolet">Освітлення, ІЧ, вогонь, ультрафіолет</a></li><li><a href="/cat321-dvijenie-rasstoyanie">Рух,  відстань</a></li><li><a href="/cat38-emperatyravlajnost">Температура, вологість</a></li><li><a href="/cat37-kselerometrigiroskopi">Акселерометри, гіроскопи</a></li><li><a href="/cat80-napryajenie--tok">Напруга, струм</a></li><li><a href="/cat79-gaz-dim-pil-vozdyh">Газ, дим, пил, повітря</a></li><li><a href="/cat320-davlenie">Тиск</a></li><li><a href="/cat36-dlya-jidkostei">Для рідини</a></li><li><a href="/cat319-datchiki-ph-himicheskii-analiz">Ph, хімічний аналіз</a></li><li><a href="/cat147-mehanicheskie-vozdeistviya">Механічний вплив</a></li><li><a href="/cat195-indyktivnie-datchiki">Індуктивні датчики</a></li><li><a href="/cat322-magnitnoe-pole">Магнітне поле</a></li><li><a href="/cat331-medicina-zdorove">Медицина, здоров'я</a></li><li><a href="/cat81-prochee">Інше</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat9-robototehnika">Робототехніка</a><ul><li><a href="/cat20-roboti">Роботи на колесах</a></li><li><a href="/cat249-roboti-gysenichnie">Роботи  гусеничні</a></li><li><a href="/cat250-roboti-shagaushhie">Роботи крокуючі</a></li><li><a href="/cat232-roboti-manipylyatori">Роботи-маніпулятори</a></li><li><a href="/cat223-robo-platformi-shassi">Робо-платформи</a></li><li><a href="/cat273-mejplatnie-stoiki">Міжплатні стійки</a></li><li><a href="/cat274-shesterni-passiki-vtylki-kronshteini">Шестерні, пассіки, втулки, кронштейни</a></li><li><a href="/cat280-kolesa">Колеса</a></li><li><a href="/cat24-rochee">Інше</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat261-motori-shagovie-dvigateli-servoprivodi-draivera">Двигуни, драйвери</a><ul><li><a href="/cat21-servoprivodi">Сервомотори</a></li><li><a href="/cat325-servoprivodi-cifrovie">Цифрові сервоприводи</a></li><li><a href="/cat22-hagoviedvigateli">Крокові двигуни</a></li><li><a href="/cat348-lineinie-privodi-aktyatori">Лінійні приводи актуатори</a></li><li><a href="/cat72-motori">Мотори</a></li><li><a href="/cat263-motori-dlya-avia-modelei">Мотори для авіа-моделей</a></li><li><a href="/cat23-raiveri">Драйвери та контролери</a></li><li><a href="/cat262-prochee">Інше</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat298-nasosi-pompi-elektromagnitnie-klapani">Насоси, помпи, електромагнітні клапани</a></li><li><a href="/cat4-kabeli-provoda-perehodniki-shnyri-pitaniya-habi">Кабелі, дроти, перехідники, шнури живлення, хаби</a><ul><li><a href="/cat191-provoda-montajnie-kabeli">Дроти монтажні, кабелі</a></li><li><a href="/cat291-kabel-awg">Кабель AWG</a></li><li><a href="/cat187-kabeli-220">220В</a></li><li><a href="/cat188-usb">USB</a></li><li><a href="/cat278-usb-habi">USB-хаби</a></li><li><a href="/cat189-hdmi">HDMI</a></li><li><a href="/cat190-ethernet">Ethernet</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat11-aketirovanie">Макетування</a><ul><li><a href="/cat39-maketni-plati">Безпаєчні макетні плати</a></li><li><a href="/cat164-maketnie-plati-pod-paiky">Макетні плати під пайку</a></li><li><a href="/cat248-steklotekstolit">Стеклотекстоліт</a></li><li><a href="/cat40-rovodaperemichki">Дроти, перемички</a></li><li><a href="/cat197-knopki-klaviatyri">Кнопки, клавіатури</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat276-razemi-konnektori-klemmniki">Роз'єми, конектори, клемники</a><ul><li><a href="/cat323-razemi-nizkovoltnie-dc">Роз'єми низковольтні DC</a></li><li><a href="/cat324-razemi-usb">Роз'єми USB</a></li><li><a href="/cat41-razemi">Роз'єми</a></li><li><a href="/cat288-razemi-xh">Роз'єми XH</a></li><li><a href="/cat91-konnektori">Конектори</a></li><li><a href="/cat289-konnektori-dupont">Конектори Dupont</a></li><li><a href="/cat290-konnektori-pls-pbs">Конектори PLS, PBS</a></li><li><a href="/cat268-klemmniki">Клемники</a></li><li><a href="/cat277-vch-razemi-i-perehodniki">ВЧ-Роз'єми та перехідники BNC</a></li><li><a href="/cat326-sma-razemi-i-perehodniki">SMA Роз'єми та перехідники</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat10-radiodetali">Радіодеталі</a><ul><li><a href="/cat181-polyprovodniki">Напівпровідники</a></li><li><a href="/cat366-mikrokontrolleri">Мікроконтролери</a></li><li><a href="/cat183-rezistori">Резистори</a></li><li><a href="/cat334-rezistori-peremennie">Резистори змінні</a></li><li><a href="/cat346-rezistori-podstroechnie">Резистори підлаштування </a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat67-rele">Реле</a><ul><li><a href="/cat173-elektromehanicheskie">Електромеханічні</a></li><li><a href="/cat174-tverdotelnie">Твердотільні</a></li><li><a href="/cat175-ystroistva-na-baze-rele">Пристрої на базі реле</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat295-vimikachi-peremikachi-knopki">Вимикачі, перемикачі, кнопки</a><ul><li><a href="/cat198-vikluchateli-perekluchateli">Вимикачі, перемикачі</a></li><li><a href="/cat335-distancionnie-vikluchateli">Дистанційні вимикачі</a></li><li><a href="/cat294-knopki">Кнопки</a></li><li><a href="/cat296-konceviki">Концевики</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat68-perehodniki-konvertori">Конвертори, перетворювачі</a><ul><li><a href="/cat167-usb-uart-ttl">USB - UART - TTL</a></li><li><a href="/cat168-rs232-rs485-db9">RS232, RS485, DB9</a></li><li><a href="/cat169-video-vga-hdmi-dvi">Відео, VGA, HDMI, DVI</a></li><li><a href="/cat94-peretvoruvachi-rivniv">Перетворювачі рівнів</a></li><li><a href="/cat170-prochie">Інше</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat259-led">LED</a><ul><li><a href="/cat375-fonariki">Ліхтарики</a></li><li><a href="/cat376-svetodiodnie-lampi">Світлодіодні лампи</a></li><li><a href="/cat30-vetodiodi">Світлодіоди</a></li><li><a href="/cat137-svetodiodnie-modyli">Світлодіодні модулі</a></li><li><a href="/cat236-svetodiodnie-indikatori">Світлодіодні індикатори</a></li><li><a href="/cat264-svetodiodnie-lenti">Світлодіодні ленти</a></li><li><a href="/cat279-svetodiodnie-lenti-soediniteli-konnektori-razemi">Світлодіодні стрічки (периферія)</a></li><li><a href="/cat101-draiveri-svetodiodov">Контролери і драйвери світлодіодів</a></li><li><a href="/cat116-lazeri">Лазери</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat378-elektrojivlennya">Електроживлення</a><ul><li><a href="/cat377-invertori">Інвертори</a></li><li><a href="/cat362-preobrazovateli-napryajeniya-stabilizatori">Перетворювачі, стабілізатори, димери</a><ul><li><a href="/cat70-stabilizatori-napryajeniya">Стабілізатори напруги</a></li><li><a href="/cat26-reobrazovateli">Перетворювачі підвищуючі</a></li><li><a href="/cat178-preobrazovateli-ponijaushhie">Перетворювачі понижуючі</a></li><li><a href="/cat368-preobrazovateli-dvynapravlennie">Перетворювачі двонаправлені</a></li><li><a href="/cat284-dimmeri-silovie-kluchi-regylyatori-moshhnosti">Силові ключі, регулятори потужності</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat379-merejevi-djerela-jivlennya">Мережеві джерела живлення</a><ul><li><a href="/cat27-bloki-pitaniya">Блоки живлення</a></li><li><a href="/cat200-bloki-pitaniya-negermetichnie">Блоки живлення негерметичні</a></li><li><a href="/cat201-modyli-pitaniya">Модулі живлення</a></li><li><a href="/cat272-laboratornie-bloki-pitaniya">Лабораторні блоки живлення</a></li><li><a href="/cat258-kabeli-pitaniya-perehodniki">Кабеля живлення, перехідники</a></li><li><a href="/cat260-setevie-filtri-ydliniteli">Мережеві фільтри-подовжувачі</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat380-avtonomni-djerela-jivlennya">Автономні джерела живлення</a><ul><li><a href="/cat381-modyli-bms">Модулі BMS</a></li><li><a href="/cat25-akkymylyatori-li-po">Акумулятори Li-Po</a></li><li><a href="/cat332-akkymylyatori-li-po-formatnie">Акумулятори Li-Po (форматні)</a></li><li><a href="/cat220-akkymylyatori-nimh">Акумулятори NiMH</a></li><li><a href="/cat221-akkymylyatori-li-ion-18650">Акумулятори Li-Ion, 18650</a></li><li><a href="/cat390-akymylyatori-lifepo4">Акумулятори LiFePo4</a></li><li><a href="/cat349-akkymylyatori-gelevie">Акумулятори Гелеві, AGM</a></li><li><a href="/cat194-batareiki">Батарейки</a></li><li><a href="/cat367-testeri-batareek-i-akkymylyatorov">Тестери батарей та акумуляторів</a></li><li><a href="/cat369-portativnie-batarei-powerbank">Портативні батареї Powerbank</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat297-zaryadni-pristroi">Зарядні пристрої</a><ul><li><a href="/cat32-aryadnieystroistva">Зарядні пристрої</a></li><li><a href="/cat211-zaryadni-modyli">Зарядні модулі</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat225-batareini-vidsiki">Батарейні відсіки</a><ul><li><a href="/cat117-batareinie-otseki-18650">Батарейні відсіки 18650</a></li><li><a href="/cat357-batareinie-otseki-aa">Батарейні відсіки AA</a></li><li><a href="/cat358-batareinie-otseki-aaa">Батарейні відсіки AAA</a></li><li><a href="/cat359-batareinie-otseki-prochie">Батарейні відсіки інші</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat28-sonyachna-energiya">Сонячна енергія</a></li><li><a href="/cat384-zapobijniki">Запобіжники</a></li><li><a href="/cat33-inshe">Інше</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat179-ystroistva-vvoda-klaviatyri-djoistiki">Пристрої введення, клавіатури, джойстики</a></li><li><a href="/cat35-etaushhieapparati">Деталі для літаючих апаратів</a><ul><li><a href="/cat58-telemetriya">Телеметрія</a></li><li><a href="/cat60-poletnie-kontrolleri">Польотні контролери</a></li><li><a href="/cat48-pparatyra-ypravleniya">Радіо апаратура, приймачі</a></li><li><a href="/cat49-lektronika">Регулятори ходу ESC</a></li><li><a href="/cat50-rami-shasi-korpysi">Рами, шасі, корпуси</a></li><li><a href="/cat51-inti--propelleri">Гвинти й пропелери</a></li><li><a href="/cat52-otori">Мотори</a></li><li><a href="/cat59-gps-i-kompas">GPS і компас</a></li><li><a href="/cat100-fpv">FPV</a></li><li><a href="/cat62-razemi-konnektori">Роз'єми, коннектори</a></li><li><a href="/cat285-provoda-kabeli-perehodniki">Проводи, кабелі, перехідники</a></li><li><a href="/cat64-datchiki-toka--beci">Датчики струму, BECи</a></li><li><a href="/cat61-others">Інше</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat186-ohlajdenie">Охолодження</a><ul><li><a href="/cat374-ventilyatori">Вентилятори</a><ul><li><a href="/cat307-ventilyatori-30x30">Вентилятори 30x30</a></li><li><a href="/cat350-ventilyatori-40x40">Вентилятори 40x40</a></li><li><a href="/cat351-ventilyatori-50x50">Вентилятори 50x50</a></li><li><a href="/cat352-ventilyatori-60x60">Вентилятори 60x60</a></li><li><a href="/cat353-ventilyatori-70x70">Вентилятори 70x70</a></li><li><a href="/cat354-ventilyatori-80x80">Вентилятори 80x80</a></li><li><a href="/cat355-ventilyatori-90x90">Вентилятори 90x90</a></li><li><a href="/cat356-ventilyatori-120x120">Вентилятори 120x120</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat305-radiatori">Радіатори</a></li><li><a href="/cat306-termopasti-teploprovodyashhie-kleya">Термопасти, теплопровідні клеї</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat382-instrymenti-obladnannya">Інструменти, обладнання</a><ul><li><a href="/cat152-payalnoe-oborydovanie">Паяльне обладнання</a><ul><li><a href="/cat251-payalniki-i-nabori">Паяльники і набори</a></li><li><a href="/cat252-payalnie-stancii">Паяльні станції</a></li><li><a href="/cat253-feni-gazovie-gorelki-i-payalniki">Фени, газові горілки и паяльники</a></li><li><a href="/cat254-payalnie-aksessyari">Паяльні аксесуари</a></li><li><a href="/cat257-flusi-payalnie-pasti">Флюси, паяльні пасти</a></li><li><a href="/cat256-pripoi">Припій</a></li><li><a href="/cat255-jala-dlya-payalnikov">Жала для паяльників</a></li><li><a href="/cat209-payalnie-rashodniki">Інші паяльні витратні матеріали</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat92-izmeritelnie-pribori">Вимірювальні прилади</a><ul><li><a href="/cat141-myltimetri">Мультиметри</a></li><li><a href="/cat142-oscillografi">Осцилографи</a></li><li><a href="/cat333-shypi-zajimi">Щупи, затискачі</a></li><li><a href="/cat140-izmeritelnie-modyli">Вимірювальні модулі</a></li><li><a href="/cat144-testeri-elementov-kabelei">Тестери елементів, кабелів</a></li><li><a href="/cat143-prochie">Температура</a></li><li><a href="/cat330-generatori-signalov">Генератори сигналів</a></li><li><a href="/cat385-inshi">Інші</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat18-rychnii-instryment">Ручний інструмент</a><ul><li><a href="/cat300-kysachki-bokorezi-passatiji">Кусачки, бокорізи, пасатижі</a></li><li><a href="/cat301-noji-skalpeli-nojnici">Ножі, скальпелі, ножиці</a></li><li><a href="/cat302-otvertki-kluchi">Викрутки, ключі</a></li><li><a href="/cat303-pinceti-nabori-dlya-remonta">Пінцети, набори для ремонту</a></li><li><a href="/cat304-shyrypoverti-dreli-sverla">Шуруповерти, дрилі, свердла</a></li><li><a href="/cat308-myltityl">Мультитул</a></li><li><a href="/cat309-kleevie-pistoleti">Клеєві пістолети</a></li><li><a href="/cat311-lineiki-ryletki">Лінійки, рулетки</a></li><li><a href="/cat312-kleshhi-objim-opressovka-semniki-izolyacii">Кліщі (обтиск, опресовування), знімачі ізоляції</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat153-nabori-komponentov">Набори компонентів</a></li><li><a href="/cat154-kassetnici-organaizeri-sortoviki">Касетниці, органайзери, сортовики</a></li><li><a href="/cat286-kleya">Клеї</a></li><li><a href="/cat310-izolenta-skotch-termoysadka">Ізолента, скотч, термоусадка</a></li><li><a href="/cat156-prochie-instrymenti">Інші інструменти</a></li><li><a href="/cat157-neodimovie-magniti">Магніти неодимові</a><ul><li><a href="/cat159-pryamoygolnie">Прямокутні</a></li><li><a href="/cat160-disk">Круглі</a></li><li><a href="/cat161-krepejnie">Кріпильні</a></li><li><a href="/cat237-magniti-neodimovie-kolca">Кільця</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat65-gotovie-ystroistva">Готові пристрої</a></li><li><a href="/cat373-3d">3D</a><ul><li><a href="/cat63-3d-printeri">3D принтери і ЧПУ</a><ul><li><a href="/cat128-podshipniki-polimernie">Підшипники полімерні</a></li><li><a href="/cat313-podshipniki-lineinie">Підшипники лінійні</a></li><li><a href="/cat314-podshipniki-radialnie">Підшипники радіальні</a></li><li><a href="/cat315-vali-myfti-gaiki">Вали, муфти, гайки</a></li><li><a href="/cat316-koncevie-opori">Концеві опори</a></li><li><a href="/cat317-podshipniki-flancevie">Підшипники фланцеві</a></li><li><a href="/cat318-shkivi-remni">Шківи, ремені</a></li><li><a href="/cat127-elektronika">Електроніка</a></li><li><a href="/cat192-dvigateli">Двигуни</a></li><li><a href="/cat171-draiveri">Драйвери</a></li><li><a href="/cat129-ekstryderi--stoli">Екструдери, Столи</a></li><li><a href="/cat139-ohlajdenie">Охолодження</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat172-3d-plastik-monofilament">3D пластик Monofilament</a><ul><li><a href="/cat202-abs">ABS</a></li><li><a href="/cat203-pla">PLA</a></li><li><a href="/cat204-copet">coPET</a></li><li><a href="/cat205-hips">HIPS</a></li><li><a href="/cat206-elastan">ELASTAN</a></li><li><a href="/cat226-san">SAN</a></li><li><a href="/cat233-pet">PET</a></li><li><a href="/cat234-pbt">PBT</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat228-3d-plastik-plexiwire-filament">3D пластик Plexiwire Filament</a><ul><li><a href="/cat270-abs">ABS</a></li><li><a href="/cat231-3d-plastik-abs-plus">ABS+</a></li><li><a href="/cat229-pla">PLA</a></li><li><a href="/cat341-flex">FLEX</a></li><li><a href="/cat230-nylon">NYLON</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat176-termoplastik-polikaprolakton-dlya-lepki">Термопластик полікапролактон для ліплення</a></li><li><a href="/cat360-3d-rychki">3D Ручки</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat8-rochee">Інше</a></li><li><a href="/cat71-literatyra">Література</a></li><li><a href="/cat17-rasprodaja">Розпродаж</a></li><li><a href="/cat184-korpysa-yniversalnie-nojki">Корпуси універсальні, ніжки</a><ul><li><a href="/cat363-korpysa">Корпуси</a></li><li><a href="/cat364-nojki-dlya-korpysov">Ніжки для корпусів</a></li></ul> <i class="fa fa-angle-right" aria-hidden="true"></i> </li><li><a href="/cat134-arhivnie-tovari">Архівні товари</a></li></ul>
+</div>
+
+<div class="clear"></div>
+
+
+
+<div class="fb-like-box" data-href="https://facebook.com/arduino.ua" data-width="192" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+<div class="clear"></div>
+
+<div class="tags">			<a href="/tag-1.2%D0%90" title="1.2А" style="font-size: 103%;font-weight: 200;">1.2А</a> 
+				<a href="/tag-1.6%D0%90" title="1.6А" style="font-size: 101%;font-weight: 200;">1.6А</a> 
+				<a href="/tag-10%D0%90" title="10А" style="font-size: 101%;font-weight: 200;">10А</a> 
+				<a href="/tag-12.5%D0%90" title="12.5А" style="font-size: 103%;font-weight: 200;">12.5А</a> 
+				<a href="/tag-12%D0%92" title="12В" style="font-size: 125%;font-weight: 200;">12В</a> 
+				<a href="/tag-16.6%D0%90" title="16.6А" style="font-size: 103%;font-weight: 200;">16.6А</a> 
+				<a href="/tag-1%D0%90" title="1А" style="font-size: 104%;font-weight: 200;">1А</a> 
+				<a href="/tag-2.1%D0%90" title="2.1А" style="font-size: 103%;font-weight: 200;">2.1А</a> 
+				<a href="/tag-2.4%D0%90" title="2.4А" style="font-size: 101%;font-weight: 200;">2.4А</a> 
+				<a href="/tag-2.5%D0%90" title="2.5А" style="font-size: 103%;font-weight: 200;">2.5А</a> 
+				<a href="/tag-20%D0%90" title="20А" style="font-size: 101%;font-weight: 200;">20А</a> 
+				<a href="/tag-24%D0%92" title="24В" style="font-size: 106%;font-weight: 200;">24В</a> 
+				<a href="/tag-29%D0%90" title="29А" style="font-size: 101%;font-weight: 200;">29А</a> 
+				<a href="/tag-2%D0%90" title="2А" style="font-size: 110%;font-weight: 200;">2А</a> 
+				<a href="/tag-33%D0%90" title="33А" style="font-size: 101%;font-weight: 200;">33А</a> 
+				<a href="/tag-3%D0%90" title="3А" style="font-size: 107%;font-weight: 200;">3А</a> 
+				<a href="/tag-40%D0%90" title="40А" style="font-size: 101%;font-weight: 200;">40А</a> 
+				<a href="/tag-4%D0%90" title="4А" style="font-size: 103%;font-weight: 200;">4А</a> 
+				<a href="/tag-5%D0%90" title="5А" style="font-size: 104%;font-weight: 200;">5А</a> 
+				<a href="/tag-5%D0%92" title="5В" style="font-size: 126%;font-weight: 200;">5В</a> 
+				<a href="/tag-6%D0%90" title="6А" style="font-size: 103%;font-weight: 200;">6А</a> 
+				<a href="/tag-6%D0%92" title="6В" style="font-size: 103%;font-weight: 200;">6В</a> 
+				<a href="/tag-7.5%D0%92" title="7.5В" style="font-size: 101%;font-weight: 200;">7.5В</a> 
+				<a href="/tag-8.33%D0%90" title="8.33А" style="font-size: 101%;font-weight: 200;">8.33А</a> 
+				<a href="/tag-9%D0%92" title="9В" style="font-size: 104%;font-weight: 200;">9В</a> 
+				<a href="/tag-Arduino" title="Arduino" style="font-size: 126%;font-weight: 200;">Arduino</a> 
+				<a href="/tag-Arduino%20Original" title="Arduino Original" style="font-size: 148%;font-weight: 200;">Arduino Original</a> 
+				<a href="/tag-ARM" title="ARM" style="font-size: 221%;font-weight: 200;">ARM</a> 
+				<a href="/tag-AVR" title="AVR" style="font-size: 144%;font-weight: 200;">AVR</a> 
+				<a href="/tag-bluetooth" title="bluetooth" style="font-size: 138%;font-weight: 200;">bluetooth</a> 
+				<a href="/tag-CPLD" title="CPLD" style="font-size: 106%;font-weight: 200;">CPLD</a> 
+				<a href="/tag-dc-dc" title="dc-dc" style="font-size: 154%;font-weight: 200;">dc-dc</a> 
+				<a href="/tag-DISCOVERY" title="DISCOVERY" style="font-size: 115%;font-weight: 200;">DISCOVERY</a> 
+				<a href="/tag-DIY" title="DIY" style="font-size: 125%;font-weight: 200;">DIY</a> 
+				<a href="/tag-ESP32" title="ESP32" style="font-size: 112%;font-weight: 200;">ESP32</a> 
+				<a href="/tag-ESP8266" title="ESP8266" style="font-size: 137%;font-weight: 200;">ESP8266</a> 
+				<a href="/tag-Ethernet" title="Ethernet" style="font-size: 123%;font-weight: 200;">Ethernet</a> 
+				<a href="/tag-FPGA" title="FPGA" style="font-size: 115%;font-weight: 200;">FPGA</a> 
+				<a href="/tag-FPV" title="FPV" style="font-size: 110%;font-weight: 200;">FPV</a> 
+				<a href="/tag-GPS" title="GPS" style="font-size: 131%;font-weight: 200;">GPS</a> 
+				<a href="/tag-GSM" title="GSM" style="font-size: 118%;font-weight: 200;">GSM</a> 
+				<a href="/tag-IR" title="IR" style="font-size: 113%;font-weight: 200;">IR</a> 
+				<a href="/tag-LCD" title="LCD" style="font-size: 110%;font-weight: 200;">LCD</a> 
+				<a href="/tag-LED" title="LED" style="font-size: 129%;font-weight: 200;">LED</a> 
+				<a href="/tag-LoRa" title="LoRa" style="font-size: 107%;font-weight: 200;">LoRa</a> 
+				<a href="/tag-Micro%3ABit" title="Micro:Bit" style="font-size: 128%;font-weight: 200;">Micro:Bit</a> 
+				<a href="/tag-MSP" title="MSP" style="font-size: 101%;font-weight: 200;">MSP</a> 
+				<a href="/tag-Nucleo" title="Nucleo" style="font-size: 118%;font-weight: 200;">Nucleo</a> 
+				<a href="/tag-NXP" title="NXP" style="font-size: 103%;font-weight: 200;">NXP</a> 
+				<a href="/tag-Odroid" title="Odroid" style="font-size: 123%;font-weight: 200;">Odroid</a> 
+				<a href="/tag-OrangePi" title="OrangePi" style="font-size: 140%;font-weight: 200;">OrangePi</a> 
+				<a href="/tag-PIC" title="PIC" style="font-size: 104%;font-weight: 200;">PIC</a> 
+				<a href="/tag-Raspberry%20Pi" title="Raspberry Pi" style="font-size: 185%;font-weight: 200;">Raspberry Pi</a> 
+				<a href="/tag-RFID" title="RFID" style="font-size: 106%;font-weight: 200;">RFID</a> 
+				<a href="/tag-RTC" title="RTC" style="font-size: 107%;font-weight: 200;">RTC</a> 
+				<a href="/tag-SD%20card" title="SD card" style="font-size: 128%;font-weight: 200;">SD card</a> 
+				<a href="/tag-servo" title="servo" style="font-size: 123%;font-weight: 200;">servo</a> 
+				<a href="/tag-Sonoff" title="Sonoff" style="font-size: 156%;font-weight: 200;">Sonoff</a> 
+				<a href="/tag-STEM" title="STEM" style="font-size: 173%;font-weight: 200;">STEM</a> 
+				<a href="/tag-STM32" title="STM32" style="font-size: 166%;font-weight: 200;">STM32</a> 
+				<a href="/tag-TFT%20LCD" title="TFT LCD" style="font-size: 156%;font-weight: 200;">TFT LCD</a> 
+				<a href="/tag-Wi-Fi" title="Wi-Fi" style="font-size: 101%;font-weight: 200;">Wi-Fi</a> 
+				<a href="/tag-WiFi" title="WiFi" style="font-size: 176%;font-weight: 200;">WiFi</a> 
+				<a href="/tag-XBee" title="XBee" style="font-size: 128%;font-weight: 200;">XBee</a> 
+				<a href="/tag-Zigbee" title="Zigbee" style="font-size: 103%;font-weight: 200;">Zigbee</a> 
+				<a href="/tag-%D0%94%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80" title="Драйвер" style="font-size: 138%;font-weight: 200;">Драйвер</a> 
+				<a href="/tag-%D0%97%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D0%B8%D0%B9" title="Зарядний" style="font-size: 151%;font-weight: 200;">Зарядний</a> 
+				<a href="/tag-%D0%86%D0%B3%D1%80%D0%B0%D1%88%D0%BA%D0%B0" title="Іграшка" style="font-size: 185%;font-weight: 200;">Іграшка</a> 
+				<a href="/tag-%D0%B2%D0%B8%D0%BC%D1%96%D1%80%D0%B8" title="виміри" style="font-size: 110%;font-weight: 200;">виміри</a> 
+				<a href="/tag-%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82" title="інструмент" style="font-size: 122%;font-weight: 200;">інструмент</a> 
+				<a href="/tag-%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8" title="Книги" style="font-size: 125%;font-weight: 200;">Книги</a> 
+				<a href="/tag-%D0%BA%D0%BE%D0%BD%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8" title="конектори" style="font-size: 109%;font-weight: 200;">конектори</a> 
+				<a href="/tag-%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81" title="Корпус" style="font-size: 128%;font-weight: 200;">Корпус</a> 
+				<a href="/tag-%D0%9D%D0%B0%D0%B1%D1%96%D1%80%20KIT" title="Набір KIT" style="font-size: 167%;font-weight: 200;">Набір KIT</a> 
+				<a href="/tag-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%BA" title="перехідник" style="font-size: 119%;font-weight: 200;">перехідник</a> 
+				<a href="/tag-%D0%96%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F" title="Живлення" style="font-size: 113%;font-weight: 200;">Живлення</a> 
+				<a href="/tag-%D1%80%D0%B5%D0%BB%D0%B5" title="реле" style="font-size: 118%;font-weight: 200;">реле</a> 
+				<a href="/tag-%D0%9A%D1%80%D0%BE%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9" title="Кроковий" style="font-size: 145%;font-weight: 200;">Кроковий</a> 
+	</div>
+<div class="clear"></div>
+
+
+
+<a href="/inf7-skidki" title="Напиши статтю і отримай знижку!"><img src="/images/write-article.jpg?ver=2" onMouseOver="this.src='/images/write-article2.jpg?ver=2'" onMouseOut="this.src='/images/write-article.jpg?ver=2'" alt="Напиши статтю і отримай знижку!"></a>
+
+</td>
+<td style="vertical-align:top; text-align:left; padding:0 0 5px 0; width:99%;">
+
+	<div class="blockHead2" itemscope itemtype="https://schema.org/BreadcrumbList">
+    <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a itemtype="https://schema.org/WebPage" itemprop="item" itemid="/" href="/" title="Головна">
+        	<span itemprop="name">
+            	Головна
+            </span><meta itemprop="position" content="1" />
+        </a>
+     </span>
+														&nbsp;&raquo;&nbsp;
+                	<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+    					<a href="/cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee" itemtype="https://schema.org/WebPage" itemprop="item" itemid="/cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee" title="RF, Wi-Fi, Bluetooth, GSM, GPS, FM, XBee">
+                        	<span itemprop="name">
+                            	RF, Wi-Fi, Bluetooth, GSM, GPS, FM, XBee
+                            </span><meta itemprop="position" content="3" />
+                        </a>
+                     </span>
+						</div>
+
+
+<div class="block" style="width:auto;">
+	
+	<script>
+	function chngNumGoods(obj,up,in_stock){
+					ons=in_stock;
+		
+			if(up==true){
+				if( (ons!=false && parseInt(obj.value)+1)<=ons)
+					obj.value=parseInt(obj.value)+1;
+				else{
+					obj.value=ons;
+					alert("Количество товара превышает остаток на складе");
+				}
+			}else{
+				if(obj.value>1)
+					obj.value=parseInt(obj.value)-1;
+			}
+	}
+	function showLoader(){
+		$('#catcont').fadeTo(200,0.4);
+		$('.search-background').fadeIn(200);
+	}
+	function hideLoader(){
+		$('#catcont').fadeTo(200,1);
+		$('.search-background').fadeOut(200);
+	};
+	function reloadPage(url){
+		showLoader();
+        $("#catcont").load(url, hideLoader);
+	}
+	function stocknotification(productID){
+		opencart("/stock_notification.php?productID="+productID);
+	}
+</script>
+
+<div class="only_real"><div class="fll"><input type="checkbox"  onchange="showStockReal(1);">  показати тільки товари "в наявності"</div>
+
+<div class="servise">Сортувати: <select onchange='location.href="/index.php?categoryID=66"+options[this.selectedIndex].value'>
+			<option selected value='&sort=sort_order'>за умовчанням</option>
+			<option  value='&sort=name&direction=ASC'>Найменування від А до Я</option>
+			<option  value='&sort=name&direction=DESC'>Найменування від Я до А</option>
+			<option  value='&sort=date_added&direction=DESC'>Спочатку нові</option>
+			<option  value='&sort=Price&direction=ASC'>від дешевих до дорогих</option>
+			<option  value='&sort=Price&direction=DESC'>від дорогих до дешевих</option>
+			<option  value='&sort=customers_rating&direction=ASC'>Рейтинг - зростання</option>
+			<option  value='&sort=customers_rating&direction=DESC'>Рейтинг - спадання</option></select>
+
+
+
+
+
+</div>
+
+
+
+<div style="clear:both;"></div>
+
+
+</div><div class="search-background" style="display: none;">
+	<label><img src="/images/loader.gif" alt=""></label>
+</div>
+
+<div id="catcont">
+
+<div class="cats-wo-photo">
+    <a href="/cat370-antenni" title="Антени">Антени</a><a href="/cat95-rfid" title="RFID, NFC">RFID, NFC</a><a href="/cat126-wi-fi-esp8266" title="Wi-Fi ESP8266, ESP32">Wi-Fi ESP8266, ESP32</a><a href="/cat96-wi-fi" title="Wi-Fi">Wi-Fi</a><a href="/cat119-gsm-gprs" title="GSM, GPRS">GSM, GPRS</a><a href="/cat97-bluetooth" title="Bluetooth">Bluetooth</a><a href="/cat98-radiomodyli" title="Радіомодулі">Радіомодулі</a><a href="/cat115-xbee-i-drygie-bee" title="XBee та інші *Bee">XBee та інші *Bee</a><a href="/cat120-gps" title="GPS">GPS</a><a href="/cat162-fm" title="FM">FM</a></div>
+
+
+
+<script>
+function add2Comparis(id,obj){
+	$.ajax({
+		type: 'POST',
+		url: '/',
+		dataType: 'text',
+		data: "add2Comparis="+id,
+		success: function(data){
+			$(obj).prop('href','/index.php?comparison_products=1').prop('title','Перейти до "Списку бажань"').prop('onclick','').addClass('fav-button fav-active').find('.fa-check-circle').fadeIn(100);
+				$('.compare_count').html(data);	
+		},
+	});
+	return false;
+}
+</script>
+
+<div class="servise"><b>1</b><a href="/index.php?categoryID=66&offset=18">2</a><a href="/index.php?categoryID=66&offset=36">3</a><a href="/index.php?categoryID=66&offset=54">4</a><a href="/index.php?categoryID=66&offset=72">5</a><a href="/index.php?categoryID=66&offset=90">6</a> ... <a href="/index.php?categoryID=66&offset=162">10</a><a href="/index.php?categoryID=66&offset=18">наст &gt;&gt;</a> </div>
+<ul class="Categories">
+			<li>            	
+
+<div class="Name"><a href="/prod4072-ai-thinker-mnogofynkcionalnii-radiochastotnii-modyl-wi-fi-esp32s-bluetooth" title="Ai-Thinker Багатофункціональний радіочастотний модуль Wi-Fi ESP32S, Bluetooth">Ai-Thinker Багатофункціональний радіочастотний модуль Wi-Fi ESP32S, Bluetooth</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img4072" href="/prod4072-ai-thinker-mnogofynkcionalnii-radiochastotnii-modyl-wi-fi-esp32s-bluetooth" title="Ai-Thinker Багатофункціональний радіочастотний модуль Wi-Fi ESP32S, Bluetooth"><img src="/products_pictures/medium_AOC118-4.jpg" alt="Ai-Thinker Багатофункціональний радіочастотний модуль Wi-Fi ESP32S, Bluetooth" title="Ai-Thinker Багатофункціональний радіочастотний модуль Wi-Fi ESP32S, Bluetooth" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC118</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod4072-ai-thinker-mnogofynkcionalnii-radiochastotnii-modyl-wi-fi-esp32s-bluetooth#discussion">Відгуків: 8</a>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(4072,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+<em>|</em>
+	<a href="/brand/ai-thinker" title="Ai-Thinker"><img src="/images/logos/Ai-Thinker.jpg" alt="Ai-Thinker"></a>
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=4072" method="post" name="MainForm1_4072">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	ESP32-S - це компактний багатофункціональний радіочастотний модуль, незалежно спроектований і розроблений Ai-Thinker. Він використовує двоядерний ESP32 в якості основного елемента керування, а модуль відповідає бортовий антени PCB</p>
+
+</div>
+
+<p><a href="/prod4072-ai-thinker-mnogofynkcionalnii-radiochastotnii-modyl-wi-fi-esp32s-bluetooth">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">178<i> грн</i> </div>
+
+<form action="/index.php?categoryID=126&prdID=4072" method="post" name="HiddenFieldsForm_4072"  onsubmit="return ajaxCart(4072,this,'brief-img4072',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_4072.numgoods,false,999990)">-</span><input type="text" name="numgoods" class="numgoodval4072" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_4072.numgoods,true,999990)">+</span>
+</div>
+
+
+
+	    				<input name="cart_4072" alt="4072" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod4073-ai-thinker-sverhkompaktnii-i-moshhnii-modyl-wifi--bt-soc" title="Ai-Thinker надкомпактний і потужний модуль WiFi + BT SoC">Ai-Thinker надкомпактний і потужний модуль WiFi + BT SoC</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img4073" href="/prod4073-ai-thinker-sverhkompaktnii-i-moshhnii-modyl-wifi--bt-soc" title="Ai-Thinker надкомпактний і потужний модуль WiFi + BT SoC"><img src="/products_pictures/medium_AOC123.jpg" alt="Ai-Thinker надкомпактний і потужний модуль WiFi + BT SoC" title="Ai-Thinker надкомпактний і потужний модуль WiFi + BT SoC" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC123</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod4073-ai-thinker-sverhkompaktnii-i-moshhnii-modyl-wifi--bt-soc#discussion">Відгуків: 5</a>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(4073,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+<em>|</em>
+	<a href="/brand/ai-thinker" title="Ai-Thinker"><img src="/images/logos/Ai-Thinker.jpg" alt="Ai-Thinker"></a>
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=4073" method="post" name="MainForm1_4073">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	<strong>ESP32-A1S</strong> - це компактний і потужний модуль. Вбудований вдосконалений двоядерний 32-розрядний процесор з низьким енергоспоживанням і чіп декодування звуку Codec <span background-color:="" font-size:="" normal="" style="color: rgb(0, 0, 0); font-family: ">ES8388</span>, можуть широко використовуватися в різних додатках IoT, підходять для пристроїв розумного будинку, інтелектуального звуку тощо</p>
+
+</div>
+
+<p><a href="/prod4073-ai-thinker-sverhkompaktnii-i-moshhnii-modyl-wifi--bt-soc">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">278<i> грн</i> </div>
+
+<form action="/index.php?categoryID=126&prdID=4073" method="post" name="HiddenFieldsForm_4073"  onsubmit="return ajaxCart(4073,this,'brief-img4073',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_4073.numgoods,false,999993)">-</span><input type="text" name="numgoods" class="numgoodval4073" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_4073.numgoods,true,999993)">+</span>
+</div>
+
+
+
+	    				<input name="cart_4073" alt="4073" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod5660-modem-4g--3g--wi-fi-royter-tp-link-m7000" title="Модем 4G/3G + Wi-Fi роутер TP-Link M7000 (б/у)">Модем 4G/3G + Wi-Fi роутер TP-Link M7000 (б/у)</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img5660" href="/prod5660-modem-4g--3g--wi-fi-royter-tp-link-m7000" title="Модем 4G/3G + Wi-Fi роутер TP-Link M7000 (б/у)"><img src="/products_pictures/medium_TMP169-1.jpg" alt="Модем 4G/3G + Wi-Fi роутер TP-Link M7000 (б/у)" title="Модем 4G/3G + Wi-Fi роутер TP-Link M7000 (б/у)" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>TMP169</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<span>голосів:</span> <b>1</b>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(5660,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=5660" method="post" name="MainForm1_5660">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	<strong><span style="color:#ff0000;">Практически новый и полностью рабочий. Б/у 1 месяц. Не пригодился. Был куплен в Эльдорадо 05.11.2022. Есть чек и гарантия на 2 года.</span> TP-Link M7000 </strong>- поддерживает последнее поколение сетей 4G FDD/TDD/LTE и представляет собой удобную портативную точку доступа Wi-Fi, которая работает в большинстве стран и регионов. Теперь вы сможете просматривать потоковое HD-видео без задержек, быстро загружать файлы и участвовать в видеоконференциях где угодно.</p>
+
+</div>
+
+<p><a href="/prod5660-modem-4g--3g--wi-fi-royter-tp-link-m7000">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">1 900<i> грн</i> </div>
+
+<form action="/index.php?categoryID=119&prdID=5660" method="post" name="HiddenFieldsForm_5660"  onsubmit="return ajaxCart(5660,this,'brief-img5660',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_5660.numgoods,false,999999)">-</span><input type="text" name="numgoods" class="numgoodval5660" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_5660.numgoods,true,999999)">+</span>
+</div>
+
+
+
+	    				<input name="cart_5660" alt="5660" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	товар закінчується
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod4375-modyl-zigbee-cc2538-c-ysilitelem-cc2592" title="Модуль ZigBee CC2538 з підсилювачем CC2592">Модуль ZigBee CC2538 з підсилювачем CC2592</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img4375" href="/prod4375-modyl-zigbee-cc2538-c-ysilitelem-cc2592" title="Модуль ZigBee CC2538 з підсилювачем CC2592"><img src="/products_pictures/medium_aoc765_1.jpg" alt="Модуль ZigBee CC2538 з підсилювачем CC2592" title="Модуль ZigBee CC2538 з підсилювачем CC2592" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC765</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star " aria-hidden="true"></i>
+                    <i class="fa fa-star " aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod4375-modyl-zigbee-cc2538-c-ysilitelem-cc2592#discussion">Відгуків: 5</a>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(4375,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=4375" method="post" name="MainForm1_4375">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	Модуль ZigBee <strong>CC2538</strong> c підсилювачем <strong>CC2592</strong> призначений для побудови ZigBee радіомережі. Модуль відрізняється від подібних модулів малими розмірами, великими можливостями програмування і великим радіусом дії.</p>
+
+</div>
+
+<p><a href="/prod4375-modyl-zigbee-cc2538-c-ysilitelem-cc2592">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">437<i> грн</i> </div>
+
+<form action="/index.php?categoryID=98&prdID=4375" method="post" name="HiddenFieldsForm_4375"  onsubmit="return ajaxCart(4375,this,'brief-img4375',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_4375.numgoods,false,999998)">-</span><input type="text" name="numgoods" class="numgoodval4375" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_4375.numgoods,true,999998)">+</span>
+</div>
+
+
+
+	    				<input name="cart_4375" alt="4375" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod4817-ai-thinker-plata-dlya-razrabotki-gps-gp-01-kit-modyl-gp-01-mikroshema-at6558r" title="Плата розробника GPS GP-01-Kit на мікросхемі AT6558R від Ai-Thinker">Плата розробника GPS GP-01-Kit на мікросхемі AT6558R від Ai-Thinker</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img4817" href="/prod4817-ai-thinker-plata-dlya-razrabotki-gps-gp-01-kit-modyl-gp-01-mikroshema-at6558r" title="Плата розробника GPS GP-01-Kit на мікросхемі AT6558R від Ai-Thinker"><img src="/products_pictures/medium_AOC810.jpg" alt="Плата розробника GPS GP-01-Kit на мікросхемі AT6558R від Ai-Thinker" title="Плата розробника GPS GP-01-Kit на мікросхемі AT6558R від Ai-Thinker" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC810</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star " aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod4817-ai-thinker-plata-dlya-razrabotki-gps-gp-01-kit-modyl-gp-01-mikroshema-at6558r#discussion">Відгуків: 2</a>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(4817,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+<em>|</em>
+	<a href="/brand/ai-thinker" title="Ai-Thinker"><img src="/images/logos/Ai-Thinker.jpg" alt="Ai-Thinker"></a>
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=4817" method="post" name="MainForm1_4817">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	<strong>GP-01-Kit</strong>&nbsp;&ndash; це високоінтегрована плата розробки SOC з керамічною антеною і високопродуктивним багаторежимним супутниковим навігаційним приймачем BDS/GNSS. Основна мікросхема - приймач супутникового позиціонування AT6558R. Даний модуль відмінно підійде для побудови автономних систем, що використовують позиціонування.</p>
+
+</div>
+
+<p><a href="/prod4817-ai-thinker-plata-dlya-razrabotki-gps-gp-01-kit-modyl-gp-01-mikroshema-at6558r">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">179<i> грн</i> </div>
+
+<form action="/index.php?categoryID=120&prdID=4817" method="post" name="HiddenFieldsForm_4817"  onsubmit="return ajaxCart(4817,this,'brief-img4817',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_4817.numgoods,false,999985)">-</span><input type="text" name="numgoods" class="numgoodval4817" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_4817.numgoods,true,999985)">+</span>
+</div>
+
+
+
+	    				<input name="cart_4817" alt="4817" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod4909-plata-razrabotchika-xbee3-thing-plus-ot-sparkfun-xbee3-micro" title="Плата розробника XBee3 Thing Plus від SparkFun - XBee3 Micro">Плата розробника XBee3 Thing Plus від SparkFun - XBee3 Micro</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img4909" href="/prod4909-plata-razrabotchika-xbee3-thing-plus-ot-sparkfun-xbee3-micro" title="Плата розробника XBee3 Thing Plus від SparkFun - XBee3 Micro"><img src="/products_pictures/medium_dpc900-02.jpg" alt="Плата розробника XBee3 Thing Plus від SparkFun - XBee3 Micro" title="Плата розробника XBee3 Thing Plus від SparkFun - XBee3 Micro" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>USA266</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<span>голосів:</span> <b>1</b>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(4909,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+<em>|</em>
+	<a href="/brand/sparkfun" title="Sparkfun"><img src="/images/logos/sparkfun.jpg" alt="Sparkfun"></a>
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=4909" method="post" name="MainForm1_4909">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	<strong>XBee3 Thing Plus</strong> від <strong>SparkFun</strong> - це плата розробника, яка дозволить Вам без зайвих складнощів приступити до розробки бездротових пристроїв.</p>
+
+</div>
+
+<p><a href="/prod4909-plata-razrabotchika-xbee3-thing-plus-ot-sparkfun-xbee3-micro">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">1 429<i> грн</i> </div>
+
+<form action="/index.php?categoryID=115&prdID=4909" method="post" name="HiddenFieldsForm_4909"  onsubmit="return ajaxCart(4909,this,'brief-img4909',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_4909.numgoods,false,999999)">-</span><input type="text" name="numgoods" class="numgoodval4909" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_4909.numgoods,true,999999)">+</span>
+</div>
+
+
+
+	    				<input name="cart_4909" alt="4909" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	товар закінчується
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod5146-raciya-kenwood-tk-2260-vhf" title="Рація Kenwood TK-2260 VHF">Рація Kenwood TK-2260 VHF</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img5146" href="/prod5146-raciya-kenwood-tk-2260-vhf" title="Рація Kenwood TK-2260 VHF"><img src="/products_pictures/medium_PWR189.jpg" alt="Рація Kenwood TK-2260 VHF" title="Рація Kenwood TK-2260 VHF" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>PWR189</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod5146-raciya-kenwood-tk-2260-vhf#discussion">Відгуків: 1</a>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(5146,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=5146" method="post" name="MainForm1_5146">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	Рація <strong>Kenwood TK-2260 VHF</strong>, яка відноситься до професійних радіостанцій підвищеної потужності, містить мінімальний необхідний набір функцій і проста у використанні. Гарантує повноцінний прийом та передачу повідомлень у діапазоні VHF 136-174 МГц, що відповідає вимогам представників пошуково-рятувальних служб, охоронців, любителів екстремального туризму та ін.</p>
+
+</div>
+
+<p><a href="/prod5146-raciya-kenwood-tk-2260-vhf">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">2 866<i> грн</i> </div>
+
+<form action="/index.php?categoryID=65&prdID=5146" method="post" name="HiddenFieldsForm_5146"  onsubmit="return ajaxCart(5146,this,'brief-img5146',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_5146.numgoods,false,999999)">-</span><input type="text" name="numgoods" class="numgoodval5146" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_5146.numgoods,true,999999)">+</span>
+</div>
+
+
+
+	    				<input name="cart_5146" alt="5146" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	товар закінчується
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod5481-telescopic-antenna-sma-300-mhz-to-1-1-ghz-ant700" title="Телескопічна антена SMA – 300 МГц до 1.1 ГГц (ANT700)">Телескопічна антена SMA – 300 МГц до 1.1 ГГц (ANT700)</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img5481" href="/prod5481-telescopic-antenna-sma-300-mhz-to-1-1-ghz-ant700" title="Телескопічна антена SMA – 300 МГц до 1.1 ГГц (ANT700)"><img src="/products_pictures/medium_FCA131-1.jpg" alt="Телескопічна антена SMA – 300 МГц до 1.1 ГГц (ANT700)" title="Телескопічна антена SMA – 300 МГц до 1.1 ГГц (ANT700)" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>FCA131</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<span>голосів:</span> <b>1</b>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(5481,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+<em>|</em>
+	<a href="/brand/sparkfun" title="Sparkfun"><img src="/images/logos/sparkfun.jpg" alt="Sparkfun"></a>
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=5481" method="post" name="MainForm1_5481">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	Антена ANT700 є телескопічною антеною, призначеною для роботи в діапазоні від 300 МГц до 1,1 ГГц із загальною довжиною, яка налаштовується від 9.5 см до 24.5 см. Антена виготовлена з нержавіючої сталі і оснащена роз&#39;ємом SMA, валом, що обертається і регульованим коліном.</p>
+
+</div>
+
+<p><a href="/prod5481-telescopic-antenna-sma-300-mhz-to-1-1-ghz-ant700">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">1 598<i> грн</i> </div>
+
+<form action="/index.php?categoryID=370&prdID=5481" method="post" name="HiddenFieldsForm_5481"  onsubmit="return ajaxCart(5481,this,'brief-img5481',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_5481.numgoods,false,999999)">-</span><input type="text" name="numgoods" class="numgoodval5481" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_5481.numgoods,true,999999)">+</span>
+</div>
+
+
+
+	    				<input name="cart_5481" alt="5481" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	товар закінчується
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod5383-plata-bluetooth-5-0-ble-jdy-23" title="Плата Bluetooth 5.0 BLE (JDY-23)">Плата Bluetooth 5.0 BLE (JDY-23)</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img5383" href="/prod5383-plata-bluetooth-5-0-ble-jdy-23" title="Плата Bluetooth 5.0 BLE (JDY-23)"><img src="/products_pictures/medium_aoc527_3.jpg" alt="Плата Bluetooth 5.0 BLE (JDY-23)" title="Плата Bluetooth 5.0 BLE (JDY-23)" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC527</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod5383-plata-bluetooth-5-0-ble-jdy-23#discussion">Відгуків: 3</a>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(5383,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=5383" method="post" name="MainForm1_5383">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	Модуль призначений для організації прозорого обміну UART через Bluetooth 5.0 радіоканал. Робочий діапазон модуля 2.4ГГц із режимом модуляції GFSK. Максимальна потужність передавача 4 db та максимальна відстань передачі даних до 60 метрів. Модуль конфігурується за допомогою АТ-команд. Конфігуруються: ім&#39;я модуля, швидкість передачі тощо. Модуль може підтримувати підключення до мобільного телефону та комп&#39;ютера.</p>
+
+</div>
+
+<p><a href="/prod5383-plata-bluetooth-5-0-ble-jdy-23">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">78<i> грн</i> </div>
+
+<form action="/index.php?categoryID=97&prdID=5383" method="post" name="HiddenFieldsForm_5383"  onsubmit="return ajaxCart(5383,this,'brief-img5383',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_5383.numgoods,false,999930)">-</span><input type="text" name="numgoods" class="numgoodval5383" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_5383.numgoods,true,999930)">+</span>
+</div>
+
+
+
+	    				<input name="cart_5383" alt="5383" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod3598-wi-fi-adapter-ac600-2-45ghz-802-11nac" title="Wi-Fi адаптер AC600D 2.4/5GHz (802.11n/ac)">Wi-Fi адаптер AC600D 2.4/5GHz (802.11n/ac)</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img3598" href="/prod3598-wi-fi-adapter-ac600-2-45ghz-802-11nac" title="Wi-Fi адаптер AC600D 2.4/5GHz (802.11n/ac)"><img src="/products_pictures/medium_dpc390_1.jpg" alt="Wi-Fi адаптер AC600D 2.4/5GHz (802.11n/ac)" title="Wi-Fi адаптер AC600D 2.4/5GHz (802.11n/ac)" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>DPC390</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod3598-wi-fi-adapter-ac600-2-45ghz-802-11nac#discussion">Відгуків: 3</a>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(3598,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=3598" method="post" name="MainForm1_3598">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	Мініатюрний <strong>Wi-Fi модуль AC600D</strong> дозволяє використовувати бездротове підключення до Інтернету через роутер з будь-яким комп&#39;ютером і ноутбуком з операційною системою Windows. При першому підключенні необхідно провести інсталяцію драйвера, для цього необхідно заздалегідь завантажити файл з інтернету, або виконати інсталяцію за допомогою утиліти на комплектному компакт-диску.</p>
+
+</div>
+
+<p><a href="/prod3598-wi-fi-adapter-ac600-2-45ghz-802-11nac">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">314<i> грн</i> </div>
+
+<form action="/index.php?categoryID=102&prdID=3598" method="post" name="HiddenFieldsForm_3598"  onsubmit="return ajaxCart(3598,this,'brief-img3598',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_3598.numgoods,false,999998)">-</span><input type="text" name="numgoods" class="numgoodval3598" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_3598.numgoods,true,999998)">+</span>
+</div>
+
+
+
+	    				<input name="cart_3598" alt="3598" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod2537-kommynikacionnii-gsmgprsgnssbluetooth-hat-shild-dlya-raspberry-pi" title="Комунікаційний GSM/GPRS/GNSS/Bluetooth HAT шилд для Raspberry Pi від Waveshare">Комунікаційний GSM/GPRS/GNSS/Bluetooth HAT шилд для Raspberry Pi від Waveshare</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img2537" href="/prod2537-kommynikacionnii-gsmgprsgnssbluetooth-hat-shild-dlya-raspberry-pi" title="Комунікаційний GSM/GPRS/GNSS/Bluetooth HAT шилд для Raspberry Pi від Waveshare"><img src="/products_pictures/medium_DPC311-1.jpg" alt="Комунікаційний GSM/GPRS/GNSS/Bluetooth HAT шилд для Raspberry Pi від Waveshare" title="Комунікаційний GSM/GPRS/GNSS/Bluetooth HAT шилд для Raspberry Pi від Waveshare" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>DPC311</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star " aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod2537-kommynikacionnii-gsmgprsgnssbluetooth-hat-shild-dlya-raspberry-pi#discussion">Відгуків: 11</a>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(2537,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+<em>|</em>
+	<a href="/brand/waveshare" title="Waveshare"><img src="/images/logos/Waveshare.jpg" alt="Waveshare"></a>
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=2537" method="post" name="MainForm1_2537">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	<strong>Комунікаційний шилд для Raspberry Pi GSM/GPRS/GNSS</strong><strong>/Bluetooth HAT</strong> на модулі SIM868 з підтримкою GSM, GPRS, GNSS та Bluetooth, що дозволяє легко перетворити Raspberry в мобільний телефон, меседжер, GPS трекер, сервер збору та передачі інформації з датчиків та багато іншого. Даний шилд сумісний з Raspberry Pi 3B+/3B/2B/Zero/Zero W. За допомогою комунікаційного шилду можна управляти об&#39;єктом на будь-якій відстані, отримувати та передавати дані. Керується та налагоджується шилд за допомогою вбудованого USB - UART CP2102.</p>
+
+</div>
+
+<p><a href="/prod2537-kommynikacionnii-gsmgprsgnssbluetooth-hat-shild-dlya-raspberry-pi">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">1 154<i> грн</i> </div>
+
+<form action="/index.php?categoryID=75&prdID=2537" method="post" name="HiddenFieldsForm_2537"  onsubmit="return ajaxCart(2537,this,'brief-img2537',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_2537.numgoods,false,999992)">-</span><input type="text" name="numgoods" class="numgoodval2537" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_2537.numgoods,true,999992)">+</span>
+</div>
+
+
+
+	    				<input name="cart_2537" alt="2537" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	товар закінчується
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod307-shild-rasshirenie-portov-vvoda-vivoda-s-xbee-razyomom-dlya-arduino-v7-1-ot-dfrobot" title="Шилд розширення портів вводу/виводу з XBee роз&#039;ємом для Arduino V7.1 від DFRobot">Шилд розширення портів вводу/виводу з XBee роз&#039;ємом для Arduino V7.1 від DFRobot</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img307" href="/prod307-shild-rasshirenie-portov-vvoda-vivoda-s-xbee-razyomom-dlya-arduino-v7-1-ot-dfrobot" title="Шилд розширення портів вводу/виводу з XBee роз&#039;ємом для Arduino V7.1 від DFRobot"><img src="/products_pictures/medium_ASC128-1.jpg" alt="Шилд розширення портів вводу/виводу з XBee роз&#039;ємом для Arduino V7.1 від DFRobot" title="Шилд розширення портів вводу/виводу з XBee роз&#039;ємом для Arduino V7.1 від DFRobot" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>ASC128</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<span>голосів:</span> <b>12</b>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(307,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+<em>|</em>
+	<a href="/brand/dfrobot" title="DFRobot"><img src="/images/logos/dfrobot.jpg" alt="DFRobot"></a>
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=307" method="post" name="MainForm1_307">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	Новітня сьома версія шилда <strong>розширення портів введення-виведення IO Expansion Shield for Arduino V7.1</strong> тепер підтримує модулі Xbee, підключення SD карти, інтерфейс APC220, модуля блютус, драйверів сервоприводів та звичайно велику кількість різноманітних датчиків. Змінено схему живлення і тепер шилд можна підключати як до Arduino UNO так і до Arduino DUE та інших контролерів з напругою цифрових інтерфейсів 3.3В і міні-комп&#39;ютерів Raspberry Pi, ODROID та ін.</p>
+
+</div>
+
+<p><a href="/prod307-shild-rasshirenie-portov-vvoda-vivoda-s-xbee-razyomom-dlya-arduino-v7-1-ot-dfrobot">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">400<i> грн</i> </div>
+
+<form action="/index.php?categoryID=87&prdID=307" method="post" name="HiddenFieldsForm_307"  onsubmit="return ajaxCart(307,this,'brief-img307',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_307.numgoods,false,999995)">-</span><input type="text" name="numgoods" class="numgoodval307" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_307.numgoods,true,999995)">+</span>
+</div>
+
+
+
+	    				<input name="cart_307" alt="307" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	товар закінчується
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod5390-mini-radiomodyl-uart-rf2-4ggc-ext-ipx1" title="Міні-радіомодуль UART-RF2.4ГГц Ext-IPX1">Міні-радіомодуль UART-RF2.4ГГц Ext-IPX1</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img5390" href="/prod5390-mini-radiomodyl-uart-rf2-4ggc-ext-ipx1" title="Міні-радіомодуль UART-RF2.4ГГц Ext-IPX1"><img src="/products_pictures/medium_aoc374_3.jpg" alt="Міні-радіомодуль UART-RF2.4ГГц Ext-IPX1" title="Міні-радіомодуль UART-RF2.4ГГц Ext-IPX1" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC374</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<span>голосів:</span> <b>2</b>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(5390,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=5390" method="post" name="MainForm1_5390">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	UART радіоподовжувач на 2,4 ГГц призначений для прозорої передачі між контролерами з аналогічними модулями на відстань до 150-200 метрів. Інформація перевіряється на цілісність даних під час передачі/прийому. У даному модулі використовується вихід на зовнішню антену (продається окремо), але можна самостійно переключити роботу модуля на вбудованій антені за допомогою підпаювання перемички.</p>
+
+</div>
+
+<p><a href="/prod5390-mini-radiomodyl-uart-rf2-4ggc-ext-ipx1">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">56<i> грн</i> </div>
+
+<form action="/index.php?categoryID=98&prdID=5390" method="post" name="HiddenFieldsForm_5390"  onsubmit="return ajaxCart(5390,this,'brief-img5390',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_5390.numgoods,false,999983)">-</span><input type="text" name="numgoods" class="numgoodval5390" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_5390.numgoods,true,999983)">+</span>
+</div>
+
+
+<table class="opt">
+<tr><th colspan="2">Оптові ціни:</th></tr>
+<tr><td>від 20 шт.</td><td> 50<i> грн</i></td></tr>
+</table>
+
+	    				<input name="cart_5390" alt="5390" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod5677-mini-radiomodyl-uart-rf2-4ggc-pcb-ant" title="Міні-радіомодуль UART-RF2.4ГГц PCB-Ant">Міні-радіомодуль UART-RF2.4ГГц PCB-Ant</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img5677" href="/prod5677-mini-radiomodyl-uart-rf2-4ggc-pcb-ant" title="Міні-радіомодуль UART-RF2.4ГГц PCB-Ant"><img src="/products_pictures/medium_aoc389_1.jpg" alt="Міні-радіомодуль UART-RF2.4ГГц PCB-Ant" title="Міні-радіомодуль UART-RF2.4ГГц PCB-Ant" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC389</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<span>голосів:</span> <b>2</b>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(5677,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=5677" method="post" name="MainForm1_5677">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	UART радіоподовжувач на 2,4 ГГц призначений для прозорої передачі між контролерами з аналогічними модулями на відстань до 150-200 метрів. Інформація перевіряється на цілісність даних під час передачі/прийому. У даному модулі використовується вбудована антена (безкорпусна), але також є можливість підключення зовнішньої антени - передбачений майданчик для розпаювання IPEX.</p>
+
+</div>
+
+<p><a href="/prod5677-mini-radiomodyl-uart-rf2-4ggc-pcb-ant">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">56<i> грн</i> </div>
+
+<form action="/index.php?categoryID=98&prdID=5677" method="post" name="HiddenFieldsForm_5677"  onsubmit="return ajaxCart(5677,this,'brief-img5677',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_5677.numgoods,false,999929)">-</span><input type="text" name="numgoods" class="numgoodval5677" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_5677.numgoods,true,999929)">+</span>
+</div>
+
+
+<table class="opt">
+<tr><th colspan="2">Оптові ціни:</th></tr>
+<tr><td>від 20 шт.</td><td> 50<i> грн</i></td></tr>
+</table>
+
+	    				<input name="cart_5677" alt="5677" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod488-mifare-one-rfid-karta-8kb-13-56mgc" title="Mifare-One RFID карта 1 kb 13.56МГц">Mifare-One RFID карта 1 kb 13.56МГц</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img488" href="/prod488-mifare-one-rfid-karta-8kb-13-56mgc" title="Mifare-One RFID карта 1 kb 13.56МГц"><img src="/products_pictures/medium_Mifare-OneRFIDcard1356Mhz.jpg" alt="Mifare-One RFID карта 1 kb 13.56МГц" title="Mifare-One RFID карта 1 kb 13.56МГц" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC208</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod488-mifare-one-rfid-karta-8kb-13-56mgc#discussion">Відгуків: 15</a>
+
+<em>|</em>	<span>Теги:</span> 
+					<a href="/tag-RFID">RFID</a> 
+		<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(488,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=488" method="post" name="MainForm1_488">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	ID карта працює на частоті 13.56МГц стандарт ISO14443. Карта біла, можна наносити зображення.</p>
+
+</div>
+
+<p><a href="/prod488-mifare-one-rfid-karta-8kb-13-56mgc">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">16<i> грн</i> </div>
+
+<form action="/index.php?categoryID=95&prdID=488" method="post" name="HiddenFieldsForm_488"  onsubmit="return ajaxCart(488,this,'brief-img488',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_488.numgoods,false,999382)">-</span><input type="text" name="numgoods" class="numgoodval488" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_488.numgoods,true,999382)">+</span>
+</div>
+
+
+<table class="opt">
+<tr><th colspan="2">Оптові ціни:</th></tr>
+<tr><td>від 50 шт.</td><td> 14<i> грн</i></td></tr>
+</table>
+
+	    				<input name="cart_488" alt="488" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod281-rfid-brelok-125kgc" title="RFID брелок 125кГц (перезаписується)">RFID брелок 125кГц (перезаписується)</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img281" href="/prod281-rfid-brelok-125kgc" title="RFID брелок 125кГц (перезаписується)"><img src="/products_pictures/medium_AOC150-1.jpg" alt="RFID брелок 125кГц (перезаписується)" title="RFID брелок 125кГц (перезаписується)" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC150</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod281-rfid-brelok-125kgc#discussion">Відгуків: 17</a>
+
+<em>|</em>	<span>Теги:</span> 
+					<a href="/tag-RFID">RFID</a> 
+		<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(281,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=281" method="post" name="MainForm1_281">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	RFID брелок 125кГц підтримує читання і запис, сумісний зі стандартами EM4100 / EM42100. Рекомендується використовувати спільно з <a href="/prod259-125Khz_RFID_modyl_RDM6300" target="_blank">RFID модулем RDM6300</a>.</p>
+
+</div>
+
+<p><a href="/prod281-rfid-brelok-125kgc">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">20<i> грн</i> </div>
+
+<form action="/index.php?categoryID=95&prdID=281" method="post" name="HiddenFieldsForm_281"  onsubmit="return ajaxCart(281,this,'brief-img281',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_281.numgoods,false,999943)">-</span><input type="text" name="numgoods" class="numgoodval281" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_281.numgoods,true,999943)">+</span>
+</div>
+
+
+<table class="opt">
+<tr><th colspan="2">Оптові ціни:</th></tr>
+<tr><td>від 100 шт.</td><td> 17<i> грн</i></td></tr>
+</table>
+
+	    				<input name="cart_281" alt="281" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod1530-rfid-brelok-13-56mgc" title="RFID брелок 13.56МГц">RFID брелок 13.56МГц</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img1530" href="/prod1530-rfid-brelok-13-56mgc" title="RFID брелок 13.56МГц"><img src="/products_pictures/medium_AOC415-1.jpg" alt="RFID брелок 13.56МГц" title="RFID брелок 13.56МГц" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC415</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod1530-rfid-brelok-13-56mgc#discussion">Відгуків: 14</a>
+
+<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(1530,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=1530" method="post" name="MainForm1_1530">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	<strong>RFID брелок 13.56МГц </strong>на базі чіпа NFC / RFID. Стандарт Mifare MF1 S50. Використовується в системах контролю доступу, розпізнавання, пропускних системах і т.д.</p>
+
+</div>
+
+<p><a href="/prod1530-rfid-brelok-13-56mgc">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">16<i> грн</i> </div>
+
+<form action="/index.php?categoryID=95&prdID=1530" method="post" name="HiddenFieldsForm_1530"  onsubmit="return ajaxCart(1530,this,'brief-img1530',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_1530.numgoods,false,999912)">-</span><input type="text" name="numgoods" class="numgoodval1530" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_1530.numgoods,true,999912)">+</span>
+</div>
+
+
+
+	    				<input name="cart_1530" alt="1530" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+			<li>            	
+
+<div class="Name"><a href="/prod282-rfid-karta-125kgc" title="RFID карта 125кГц">RFID карта 125кГц</a></div>
+
+<table style="width:100%;">
+
+<tr>
+
+<td style="width:1%;">
+<a class="brief-img-border" id="brief-img282" href="/prod282-rfid-karta-125kgc" title="RFID карта 125кГц"><img src="/products_pictures/medium_AOC151-1.jpg" alt="RFID карта 125кГц" title="RFID карта 125кГц" class="image"></a>
+</td>
+
+<td style="width:98%;">
+<div class="product-det-service">
+	<span>код:</span> <b>AOC151</b>
+		<em>|</em>
+
+    <span class="rating-det-done"> 
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star yellow" aria-hidden="true"></i>
+                    <i class="fa fa-star " aria-hidden="true"></i>
+            </span> &nbsp;
+
+	<a href="/prod282-rfid-karta-125kgc#discussion">Відгуків: 3</a>
+
+<em>|</em>	<span>Теги:</span> 
+					<a href="/tag-RFID">RFID</a> 
+		<em>|</em>
+ 
+    <a class="fav-button" href="#" onclick="return add2Comparis(282,this);" title='Вибрати для порівняння'><i class="fa fa-check-circle"></i><i class="fa fa-balance-scale"></i></a>
+
+
+
+
+</div>
+
+		
+
+<form action="/index.php?productID=282" method="post" name="MainForm1_282">
+<table class="extra">
+
+	</table>
+</form>
+
+
+<div class="product_detailed_description brief_descr">
+    <p>
+	RFID карта 125 кГц, сумісна зі стандартами EM4100 / EM4102. Рекомендується використовувати спільно з <a href="/prod259-125Khz_RFID_modyl_RDM6300">RFID модулем RDM6300</a></p>
+
+</div>
+
+<p><a href="/prod282-rfid-karta-125kgc">Докладніше &rarr;</a></p>
+
+</td>
+
+<td style="width:1%;">
+
+<div class="BuytBrief">
+
+
+	<div class="Price">16<i> грн</i> </div>
+
+<form action="/index.php?categoryID=95&prdID=282" method="post" name="HiddenFieldsForm_282"  onsubmit="return ajaxCart(282,this,'brief-img282',1,'','у кошику');">
+			
+<div class="noomgood">
+<span onclick="chngNumGoods(document.HiddenFieldsForm_282.numgoods,false,999999)">-</span><input type="text" name="numgoods" class="numgoodval282" value="1"><span class="pl" onclick="chngNumGoods(document.HiddenFieldsForm_282.numgoods,true,999999)">+</span>
+</div>
+
+
+
+	    				<input name="cart_282" alt="282" type="submit" value="КУПИТИ" class="buy_new">
+        	
+
+	</form>
+
+<div class="sklad">
+<span>статус товара:</span> 
+	<b>
+        	в наявності
+        </b>
+
+    </div>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+
+            		</li>
+	</ul>
+
+<div class="servise"><b>1</b><a href="/index.php?categoryID=66&offset=18">2</a><a href="/index.php?categoryID=66&offset=36">3</a><a href="/index.php?categoryID=66&offset=54">4</a><a href="/index.php?categoryID=66&offset=72">5</a><a href="/index.php?categoryID=66&offset=90">6</a> ... <a href="/index.php?categoryID=66&offset=162">10</a><a href="/index.php?categoryID=66&offset=18">наст &gt;&gt;</a> </div>
+<div style="clear:both;"></div>
+
+	<div class="txt product_detailed_description"></div>
+
+<script>
+function showStockReal(obj){
+		$.ajax({
+	        type: "POST",
+	        data: "showStockReal=1&value="+(obj),
+	        dataType: "text",
+	        url: "/index.php",
+	        success: function(data){
+				//location.reload('cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee');
+				$(location).attr('href', 'cat66-rf-wi-fi-bluetooth-gsm-gps-fm-xbee');
+	  		},
+	      });
+  		return false;
+}
+</script>
+
+
+<script>
+function add2Favorite(id,obj){
+	$.ajax({
+		type: 'POST',
+		url: '/',
+		dataType: 'text',
+		data: "add2Favorite="+id,
+		success: function(data){
+			if(data=='error'){
+				alert('Для створення "Списку бажань", Вам необхідно увійти в акаунт під своїм логіном та паролем або зареєструватися на сайті.');
+			}else if(data=='many'){
+				alert('Вже є 100 товарів у списку ваших бажань. Будь ласка, почистіть його.');
+			}else{
+				$(obj).prop('href','/index.php?favorite=yes').prop('title','Перейти до "Списку бажань"').prop('onclick','').addClass('fav-button fav-active').find('.fa-check-circle').fadeIn(100);
+				$('.fav_count').html(data);
+			}
+		},
+	});
+	return false;
+}
+</script>
+</div></div>
+<div class="clear"></div>
+
+</td>
+
+</tr>
+</table>
+</div><!--#content-->
+
+<div style="border-top:2px solid black; height:1px; border-bottom:1px solid #999;"></div>
+<div style="float:left; margin-top:20px;">
+<ul class="bottom-menu">
+<li><a href="/" title="Головна">Головна</a></li>
+<li><a href="/inf4-garantiya" title="Гарантійні умови">Гарантійні умови</a></li>
+<li>                                                <a href="/index.php?register=yes">Реєстрація</a> 
+                        </li>
+<li><a href="/index.php?show_price=yes" title=" Прайс-Лист"> Прайс-Лист</a></li>
+<li><a href="/feedback" title="Зворотний зв'язок">Зворотний зв'язок</a></li>
+<li><a href="/?mobile" title="Мобільна версія">Мобільна версія</a></li>
+<li><a href="/inf10-dogovor-pyblichnoi-oferti" title="Договір публічної оферти">Договір публічної оферти</a></li>
+</ul>
+</div>
+<div style="float:right; margin-top:20px;"><img src="/images/viza-master.png" alt="оплата картами Visa і MasterCard" title="У нас можна оплатити товар Visa і MasterCard" /></div>
+<div style="clear:both;"></div>
+</div>
+
+<script>
+
+$( ".office" ).mouseover(function() {
+	$("a.enter").css('color','#000');							  
+  	$( ".office" ).addClass('office_block');
+  	$( ".office_popup" ).addClass('office_popup_block');
+});
+$(document).mouseup(function (e){ // событие клика по веб-документу
+		var div = $(".office_popup"); // тут указываем ID элемента
+		if (!div.is(e.target) // если клик был не по нашему блоку
+		    && div.has(e.target).length === 0) { // и не по его дочерним элементам
+			$("a.enter").css('color','#ffffff');
+			$(".office").removeClass('office_block');
+ 			$(".office_popup").removeClass('office_popup_block');
+		}
+	});
+
+</script>
+
+
+<div id="popupBasket" style="margin:0px;padding:0px;"></div>
+<div id="backgroundPopup" onClick="disablePopupQS();"></div>
+
+<a id="back-top" href="#top"></a>
+
+</body>
+
+
+
+
+
+</html>
